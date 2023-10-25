@@ -3,3 +3,6 @@ test("Test passing", () => {
     resolve(true);
   });
 });
+ function testPassing (){
+      return true;
+ }
